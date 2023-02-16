@@ -1,11 +1,10 @@
 # Nome: Luan Mendes Gonçalves Freitas
-# Matricula: 15/0015585
 # Disciplina: Fundamentos de Sistemas Inteligentes
 # Projeto Final - Detecção de Spam baseado na suposição de um conteúdo diferente de um e-mail legítimo
 # Módulo main
 import os
 
-from redesNeurais_150015585 import PerceptronMulticamadas, FuncaoBaseRadial
+from redesNeurais import PerceptronMulticamadas, FuncaoBaseRadial
 
 def main():
     opcao = 0
